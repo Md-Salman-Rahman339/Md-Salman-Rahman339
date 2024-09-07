@@ -1,8 +1,8 @@
-<img  align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.ukJuXEOkOyfRO_pwsgrM2QHaD8?rs=1&pid=ImgDetMain" />
-
 <h1 align="center">Hi 👋, I'm Muhammad Salman Rahman Nayeem</h1>
 <h3 align="center">A passionate back-end developer from Bangladesh</h3>
-<img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img  align="right" alt="Coding" width="400" border radius="30" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<br/>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-salman-rahman339&label=Profile%20views&color=0e75b6&style=flat" alt="md-salman-rahman339" /> </p>
 
